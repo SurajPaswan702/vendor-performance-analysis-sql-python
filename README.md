@@ -112,7 +112,8 @@ vendor-performance-analysis/
 <h2><a class="anchor" id="author-contact"></a>Author & Contact</h2>
 
 **Suraj Kr. Paswan**
-Email: suraj.work711@gmail.com
+
+Email: suraj.work711@gmail.com  
 [LinkedIn][https://www.linkedin.com/in/surajpaswan]
 
 
